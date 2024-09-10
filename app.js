@@ -19,7 +19,3 @@ console.log(containDuplicate([1,1,1,3,3,4,3,2,4]))
 
 
 
-function checkduplicate(arr){
-    return new set(arr).size !==arr.length
-}
-console.log(checkduplicate([1,2,3,1]));
